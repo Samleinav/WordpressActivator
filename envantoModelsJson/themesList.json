@@ -1,0 +1,26 @@
+{
+    "count":1,
+    "results":[
+        {
+            "amount":"54.00",
+            "sold_at":"2016-01-14T16:49:01+11:00",
+            "license":"Regular License",
+            "support_amount":"0.00",
+            "supported_until":"2016-07-15T07:49:01+10:00",
+            "item":{
+                "id":7896392,
+                "name":"Residence Real Estate WordPress Theme",
+                "number_of_sales":17705,
+                "author_username":"WpEstate",
+                "author_url":"https://themeforest.net/user/wpestate",
+                "url":"https://themeforest.net/item/wp-residence-real-estate-wordpress-theme/7896392",
+                "updated_at":"2020-10-27T20:07:07+11:00",
+                "attributes":[],
+                "wordpress_theme_metadata":{},
+                "rating":4.83,
+                "previews":{}
+            },
+            "code":"33cb2354-559c-4514-8598-9138fb0214ee"
+        }
+    ]
+}

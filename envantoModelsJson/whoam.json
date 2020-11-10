@@ -1,0 +1,10 @@
+{
+    "clientId":null,
+    "userId":6738280,
+    "scopes":[
+        "default",
+        "purchase:list",
+        "purchase:download"
+    ],
+    "ttl":315360000
+}
